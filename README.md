@@ -1,7 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mauvesoftware/ilo_exporter)](https://goreportcard.com/report/github.com/mauvesoftware/ilo_exporter)
 # ilo_exporter
 Metrics exporter for HP iLO to prometheus
-
+https://grafana.com/grafana/dashboards/20212-ilo/
 ## Breaking changes
 Beginning with version 1.0.0 the projects ilo4_exporter and ilo5_exporter were merged to ilo_exporter. Due to this change metric names are based on ilo5_exporter but were renamed to show compatiblity to both versions.
 
